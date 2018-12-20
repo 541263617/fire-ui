@@ -1,0 +1,10 @@
+{
+  "name": "@2dfire/fire-ui",
+  "version": "0.0.58",
+  "description": "掌柜UI规范h5-vue组件库",
+  "main": "dist/index.js",
+  "author": {
+    "name": "刀伤木"
+  },
+  "license": "ISC"
+}
